@@ -1,0 +1,21 @@
+body {
+  margin-bottom: 0px;
+  padding: 0px;
+  background: url(https://static.sehatq.com/content/review/image/1662019755.jpeg);
+  background-position: center;
+  font-family: sans-serif;
+  background-size: cover;
+  height: 100vh;
+}
+
+.login-box {
+  width: 320px;
+  height: 420px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  top: 25%;
+  left: 40%;
+  position: absolute;
+  box-sizing: border-box;
+  padding: 72px;
+}
